@@ -15,7 +15,7 @@ The music player is be able to add, and delete in the queue along with the abili
 
 To remove the a.out files use
 
-    $ make clean        # To remove the a.out files
+    $ make clean                    # To remove the a.out files
 
 ---
 ## File structure
