@@ -95,11 +95,14 @@ The music player should have the following data present in it:
 
 INPUT
 
-    add queue user1 song1
-    add queue user1 song2
-    add queue user1 song3
-    play song user1
-    play song user1
+    make_song song1 artist1 3.5
+    make_song song2 artist1 3
+    make_song song3 artist2 5
+    add_queue user1 song1
+    add_queue user1 song2
+    add_queue user1 song3
+    play_song user1
+    play_song user1
 
 OUTPUT
     
